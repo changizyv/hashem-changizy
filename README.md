@@ -1,8 +1,5 @@
-# Here are some simple computing projects with Python.
-These projects are related to the first official course that I have taken to learn Python.
-Calculation of time, calculation of area and perimeter of several shapes chosen by the user, formatting to mobile number, etc. are some of the projects that I share for you in this folder.
-I will gradually put other simple projects here.
-Copyright: You can use and share these projects for non-commercial purposes.
-Please do not use these codes to cheat in studying and be a little creative yourself.
+This repository contains a simple educational Python project designed to demonstrate basic mathematical calculations. The project, titled "Calculation of Area and Perimeter," allows users to compute the area and perimeter of various shapes (square, rectangle, circle, and triangle) using Python. It serves as a beginner-friendly exercise to understand mathematical operations and input/output handling in Python programming.
 
-### by: Hashem-Changizy
+This project is intended solely for educational purposes, helping learners grasp concepts like arithmetic operations, conditional statements, and error handling while working with geometric calculations. Feel free to use and share this code for non-commercial educational purposes. Please avoid using it to cheat in studies and encourage your own creativity in learning.
+
+##by: Hashem-Changizy
